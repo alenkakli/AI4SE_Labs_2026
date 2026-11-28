@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "text-tools": {
+      "type": "stdio",
+      "command": "python",
+      "args": [
+        "${workspaceFolder}/Week_08_Dissecting/Assignments/Task_7/mcp_server.py"
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+MCP tool proof
+
+Verified through the MCP stdio protocol:
+
+- Tool discovered by ListTools: reverse_text
+- Tool call: reverse_text(text="Software Engineering")
+- Output: gnireenignE erawtfoS
